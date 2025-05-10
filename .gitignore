@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -155,17 +154,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 >>>>>>> 3cfa5f7 (Initial commit)
-=======
-<!-- This is the main HTML file for a Vite + React application. It includes the necessary meta tags, links to stylesheets, and a script to load the JavaScript bundle. -->
-# Node modules
-node_modules
-
-# Build output
-#dist
-#dist-ssr
-*.local
-# Logs
-logs
-# Mac System files
-*.DS_Store
->>>>>>> 96404f5 (Publicação GitHub Pages)
