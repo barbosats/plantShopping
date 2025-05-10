@@ -1,24 +1,12 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
+<!-- This is the main HTML file for a Vite + React application. It includes the necessary meta tags, links to stylesheets, and a script to load the JavaScript bundle. -->
+# Node modules
 node_modules
+
+# Build output
 dist
 dist-ssr
 *.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Logs
+logs
+# Mac System files
+*.DS_Store
